@@ -1,2 +1,2 @@
-FROM quay.io/giokara/test:1.0.0
+FROM quay.io/giokara/test:1.0.1
 
